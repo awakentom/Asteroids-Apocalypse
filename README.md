@@ -2,6 +2,9 @@
 
 A thrilling twist on the classic *Asteroids* game, built with Pygame. Navigate your spaceship through waves of asteroids, UFOs with tractor beams, homing missiles, and mysterious black holes that grant temporary power-ups. Survive as long as you can, rack up points, and aim for the high score!
 
+## Asteroids: Apocalypse Cover
+![Game Cover](screenshots/aa.png)
+
 ## Features
 - **Classic Gameplay with a Twist**: Destroy asteroids, avoid collisions, and shoot down enemies.
 - **Enemies**: Face UFOs that pull you in with tractor beams and launch homing missiles.
